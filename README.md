@@ -18,4 +18,3 @@ a,p
 
 ![Diagrama de flujo](diagrama.png "diagrama de flujo")
 # Construcción
-c
